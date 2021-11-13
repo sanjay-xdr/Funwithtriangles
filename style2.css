@@ -1,0 +1,40 @@
+
+
+  body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+
+
+  .container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    height: 80vh;
+
+    
+  }
+
+  .obj1{
+  
+    background-color: #F3F4F6;
+    width:20rem;
+    height: 5rem;
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+a {
+  text-decoration: none;
+  color: blueviolet;
+  }
+
+  h1{
+    background-color: #F3F4F6;
+    
+    text-align: center;
+  }
